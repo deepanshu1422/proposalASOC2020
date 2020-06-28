@@ -1,7 +1,3 @@
-Hello Sir ,Could you please have a quick go through of my proposal ,
-You are requested to please comment out the changes required and I'll surely do the required changes byy the time of submission on (midnight of 28th June)
-Thanks in advance
-
 # Alibaba Summer of Code Proposal
 
   
