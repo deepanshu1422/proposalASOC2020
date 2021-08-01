@@ -86,11 +86,11 @@
 ### 1.2 Personal Experience
 
   
-Being a computer science student with a specialization in Electronics and Communication. I am currently enrolled in as MBA student with majors in Business Statistics And Analysis I am interested in kernels and machine learning from my freshman year, I think this is a very good opportunity for me to get hands-on development experience in this field. I am prepared to learn more about it in the summers and explore this interesting field.
+Being a computer science student with a specialization in Electronics and Communication. I am currently enrolled in as MBA student with majors in Information Systems and Marketing I am interested in kernels and machine learning from my freshman year, I think this is a very good opportunity for me to get hands-on development experience in this field. I am prepared to learn more about it in the summers and explore this interesting field.
 
   
 
-I also interned at the Computation Acceleration team at Thapar Institute Of Engineering And Technology wherein I developed a synthesizable arbitrary precision fixed and floating-point library for their High-Level Synthesis tool which also works with Vivado and Calypto. I thus feel that I have experience with the concepts and skills needed to complete this project. Alibaba Summer of Coding provides me with a chance to make contributions to open source projects, with mentorship from great developers from Alibaba. I cherish this opportunity and would put my 100% to devote to this project!
+I previously interned at the Computation Acceleration team at Thapar Institute Of Engineering And Technology wherein I developed a synthesizable arbitrary precision fixed and floating-point library for their High-Level Synthesis tool which also works with Vivado and Calypto and also wrote the complete documentation and end user manuals. I thus feel that I have experience with the concepts and skills needed to complete this project. Alibaba Summer of Coding provides me with a chance to make contributions to open source projects, with mentorship from great developers from Alibaba. I cherish this opportunity and would put my 100% to devote to this project!
 
   
   
