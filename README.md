@@ -77,11 +77,8 @@
 
 - Major: Computer Science And Engineering At Thapar Institute Of Engineering And Technology.
 
-- Skills: Python developer; Java/C++ for Data Structures, Scala for mathematic computation, MATLAB.
+- Skills:  Java/C++ for Data Structures, Scala for mathematic computation, MATLAB.,Sphinx,Gitbook,Gatsby,KB4IT
 
-- CV: [Curriculum vitae]([https://drive.google.com/file/d/17OTQqXDRsaSmJURa6Iy_l2lGvSRiUFzC/view](https://drive.google.com/file/d/17OTQqXDRsaSmJURa6Iy_l2lGvSRiUFzC/view)).
-
-  
 
 ### 1.2 Personal Experience
 
